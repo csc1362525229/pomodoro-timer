@@ -1,0 +1,8 @@
+# 忽略编译产物
+*.exe
+*.dll
+*.nupkg
+
+# 个人配置文件（包含敏感信息）
+claude-settings.json
+statusline.py
